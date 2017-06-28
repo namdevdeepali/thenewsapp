@@ -48,7 +48,7 @@ display: inline-block;
 	color: white;
 }
 body{
-	background-color: black;
+	background-color: white;
 }
 h1{
 	color: skyblue;
@@ -58,8 +58,9 @@ hr{
 	color: white;
 }
 
-h2{
+/*h2{
 	text-align: center;
 	color: lavender;
-	margin-top: 100px;
+	margin-top: px;
 }
+*/
