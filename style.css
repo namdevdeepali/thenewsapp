@@ -1,0 +1,65 @@
+#main {
+	text-align: center;
+	margin:30px 0px 0px 0px; 
+}
+#bbc
+ {
+
+position: relative;
+margin-left: 50px;
+display: inline-block;
+}
+
+#the
+ {
+
+position: relative;
+margin-left: 50px;
+display: inline-block;
+
+}
+
+#hindustan
+ {
+
+position: relative;
+margin-left: 50px;
+display: inline-block;
+
+}
+
+#indian
+ {
+
+position: relative;
+margin-left: 50px;
+display: inline-block;
+}
+
+#top{
+	text-align: center;
+
+}
+
+
+/*all classes css below this*/
+.btn {
+	background: grey;
+	color: white;
+}
+body{
+	background-color: black;
+}
+h1{
+	color: skyblue;
+}
+
+hr{
+	color: white;
+}
+
+h2{
+	text-align: center;
+	color: lavender;
+	margin-top: 100px;
+}
